@@ -1,0 +1,25 @@
+{
+  "noScriptTags": true,
+  "localFilesMissing": [],
+  "triangleAngles": [
+    0,
+    125,
+    250,
+    375,
+    500,
+    625,
+    750,
+    875,
+    1000,
+    1125,
+    1250,
+    1375,
+    1500
+  ],
+  "rotationStep125": true,
+  "colorKeyframes": 6,
+  "checkboxes": 7,
+  "checkedAndNotCheckedSelectors": true,
+  "perspective": true,
+  "preserve3d": true
+}

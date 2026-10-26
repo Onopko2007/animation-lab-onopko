@@ -1,0 +1,84 @@
+{
+  "noRuntimeScripts": 0,
+  "ants": {
+    "distance": "1.1901%",
+    "duration": "14s",
+    "path": "path(\"M 63 285 L 63 34 Q 63 25 75 25 L 316 25 Q 327 25 327 36 L 327 281 Q 327 293 315 293 L 75 293 Q 63 293 63 285 Z\")",
+    "pngLoaded": true
+  },
+  "submarine": {
+    "images": 0,
+    "name": "sub-drift",
+    "transform": "matrix(0.967088, -0.254442, 0.254442, 0.967088, -110, -79.5995)"
+  },
+  "bubbles": {
+    "count": 10,
+    "sizes": [
+      "10px",
+      "7px",
+      "15px",
+      "8px",
+      "5px",
+      "4px",
+      "12px",
+      "17px",
+      "9px",
+      "6px"
+    ]
+  },
+  "triangle": {
+    "colors": [
+      "rgb(159, 188, 247)",
+      "rgb(57, 118, 239)",
+      "rgb(57, 118, 239)",
+      "rgb(57, 118, 239)",
+      "rgb(57, 118, 239)",
+      "rgb(57, 118, 239)"
+    ],
+    "count": 6,
+    "duration": "24s",
+    "name": "wheel-steps"
+  },
+  "pause14": "paused",
+  "pause15": "paused",
+  "drawerOpen": {
+    "style": "preserve-3d",
+    "transform": "matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 85, 1)"
+  },
+  "perspective": "850px",
+  "allOpened": [
+    true,
+    true,
+    true
+  ],
+  "allReset": [
+    false,
+    false,
+    false
+  ],
+  "keyboardCheckbox": true,
+  "responsive": [
+    {
+      "cards": 4,
+      "scrollWidth": 305,
+      "viewport": 320
+    },
+    {
+      "cards": 4,
+      "scrollWidth": 753,
+      "viewport": 768
+    },
+    {
+      "cards": 4,
+      "scrollWidth": 985,
+      "viewport": 1000
+    },
+    {
+      "cards": 4,
+      "scrollWidth": 1265,
+      "viewport": 1280
+    }
+  ],
+  "antLater": "95.9442%",
+  "console": []
+}
